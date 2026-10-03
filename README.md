@@ -16,6 +16,10 @@ Organization names, real IP addresses, hostnames, customer/user names, screensho
 
 - [WAN Link Migration: Monitoring Outage Caused by Missing SNAT Source Zone](wan/wan-link-migration-monitoring-outage-snat-zone.md)
 
+### Firewall
+
+- [Firewall HA: Ghost MAC Address Blocking HA Interface Failover](firewall/ghost-mac-ha-interface-failover.md)
+
 ## Author
 
 Nauman Ali  
