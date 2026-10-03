@@ -20,6 +20,8 @@ Organization names, real IP addresses, hostnames, customer/user names, screensho
 
 - [Firewall HA: Ghost MAC Address Blocking HA Interface Failover](firewall/ghost-mac-ha-interface-failover.md)
 
+- [Firewall Policy vs NAT: Internet Access Troubleshooting](firewall/firewall-policy-vs-nat-troubleshooting.md)
+
 ### Switching
 
 - [VLAN Mismatch: Server Reachability Issue](switching/vlan-mismatch-server-reachability.md)
