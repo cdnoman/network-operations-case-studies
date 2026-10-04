@@ -31,6 +31,10 @@ Organization names, real IP addresses, hostnames, customer/user names, screensho
 
 - [Route Exists but Return Path Missing](routing/route-exists-but-return-path-missing.md)
 
+### DNS / Web Access
+
+- [Local Websites Not Opening: Split-DNS Design and QUIC/UDP Filtering](dns-web/dns-quic-udp-local-websites-not-opening.md)
+
    
 ### Monitoring
 
