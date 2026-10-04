@@ -48,3 +48,11 @@ Organization names, real IP addresses, hostnames, customer/user names, screensho
 
 Nauman Ali  
 Network Engineer
+
+## Author
+
+**Nauman Ali**  
+Network Engineer  
+
+[LinkedIn Profile](https://www.linkedin.com/in/nauman-ali-network/) | [GitHub Profile](https://github.com/cdnoman)
+
