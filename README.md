@@ -44,15 +44,12 @@ Organization names, real IP addresses, hostnames, customer/user names, screensho
 
 - [IPsec VPN: Tunnel Up but Traffic Not Passing](vpn/fortigate-ipsec-vpn-tunnel-troubleshooting.md)
 
-## Author
 
-Nauman Ali  
-Network Engineer
 
 ## Author
 
 **Nauman Ali**  
-Network Engineer  
+Network | Security Engineer
 
 [LinkedIn Profile](https://www.linkedin.com/in/nauman-ali-network/) | [GitHub Profile](https://github.com/cdnoman)
 
