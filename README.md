@@ -25,7 +25,8 @@ Organization names, real IP addresses, hostnames, customer/user names, screensho
 ### Switching
 
 - [VLAN Mismatch: Server Reachability Issue](switching/vlan-mismatch-server-reachability.md)
-
+- [STP Blocking vs Port Down Misdiagnosis](switching/stp-blocking-vs-port-down.md)
+- 
 ### Monitoring
 
 - [Network Slow vs Application Slow](monitoring/network-slow-vs-application-slow.md)
